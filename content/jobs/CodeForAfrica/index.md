@@ -18,4 +18,5 @@ url: 'https://codeforafrica.org/'
   e.g [Sensor.Community](https://github.com/CodeForAfrica/sensors.AFRICA-api-Data-Sensor.Community),
   [PurpleAir](https://github.com/CodeForAfrica/sensors.AFRICA-api-Data-PurpleAir)
 
-- Lead the adoption and system depolyment of Media Cloud https://mediacloud.org which is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media into Code For Africa.
+- Lead the adoption and system depolyment of [Media Cloud](https://mediacloud.org) which is an open source, open data platform that allows researchers to answer quantitative questions about the content of online media into Code For Africa.
+  > I also did some contributions to the giant opensource project. [Here](https://github.com/mediacloud/web-tools/commit/f954848bb7ab668a473df176c55e41daeb97125f)
