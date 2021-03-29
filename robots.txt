@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://esirk.github.io/sitemap.xml
+Host: https://esirk.github.io
